@@ -1,0 +1,35 @@
+StartFontMetrics 4.1
+Notice Converted by PHP-font-lib
+Comment https://github.com/PhenX/php-font-lib
+EncodingScheme FontSpecific
+FontName pct
+FontSubfamily Regular
+UniqueID FontForge 2.0 : pct : 20-8-2018
+FullName pct
+Version Version 1.0
+PostScriptName pct
+Weight Medium
+ItalicAngle 0
+IsFixedPitch true
+UnderlineThickness 0
+UnderlinePosition 0
+FontHeightOffset 90
+Ascender 1000
+Descender 0
+FontBBox 0 0 1000 1000
+StartCharMetrics 16
+U 97 ; WX 1000 ; N arrow1 ; G 3
+U 98 ; WX 1000 ; N arrow2 ; G 4
+U 99 ; WX 1000 ; N arrow3 ; G 5
+U 100 ; WX 1000 ; N arrow4 ; G 6
+U 101 ; WX 1000 ; N chat1 ; G 7
+U 102 ; WX 1000 ; N chat2 ; G 8
+U 103 ; WX 1000 ; N chat3 ; G 9
+U 104 ; WX 1000 ; N chat4 ; G 10
+U 105 ; WX 1000 ; N loader1 ; G 11
+U 106 ; WX 1000 ; N arrow-sharp1 ; G 12
+U 107 ; WX 1000 ; N arrow-sharp2 ; G 13
+U 108 ; WX 1000 ; N arrow-sharp3 ; G 14
+U 109 ; WX 1000 ; N arrow-sharp4 ; G 15
+EndCharMetrics
+EndFontMetrics

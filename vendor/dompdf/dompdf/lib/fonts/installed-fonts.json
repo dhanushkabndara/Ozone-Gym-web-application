@@ -1,0 +1,27 @@
+{
+    "glyphicons halflings": {
+        "normal": "glyphicons_halflings_normal_df31caafbfa62a5bbe5552e25e16b818"
+    },
+    "pct": {
+        "normal": "pct_normal_b4cd84d831bc404a5fbd82bd296ed958"
+    },
+    "feather": {
+        "normal": "feather_normal_5cbbaca2b117cb157d74757fd66e1e3e"
+    },
+    "font awesome 5 brands": {
+        "normal": "font_awesome_5_brands_normal_e3ec235b2545fc7515f7a27de207eeec"
+    },
+    "font awesome 5 free": {
+        "normal": "C:\\xampp\\htdocs\\OzoneGym\\vendor\\dompdf\\dompdf\/lib\/fonts\/font_awesome_5_free_normal_b16dae1f62ce713f147f4f204e029e5f",
+        "900": "font_awesome_5_free_900_b36f2c145a7b1fe396bc71609c44c7bb"
+    },
+    "flaticon": {
+        "normal": "flaticon_normal_0d73f3c12fdae19e41fa1eea585edb17"
+    },
+    "muli": {
+        "300": "C:\\xampp\\htdocs\\OzoneGym\\vendor\\dompdf\\dompdf\/lib\/fonts\/muli_300_a945c333acf74a4d2395b8c0db677419",
+        "normal": "C:\\xampp\\htdocs\\OzoneGym\\vendor\\dompdf\\dompdf\/lib\/fonts\/muli_normal_13573c3d941bc4a4ee58dd648314ca54",
+        "bold": "C:\\xampp\\htdocs\\OzoneGym\\vendor\\dompdf\\dompdf\/lib\/fonts\/muli_bold_4811111f1cf61525d83bfb6f1bc0166f",
+        "900": "muli_900_b1ca2b0094965baf76c041ddf651d176"
+    }
+}
